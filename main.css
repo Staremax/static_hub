@@ -1,0 +1,739 @@
+@font-face {
+ font-family: "MDroid";
+ src: url("http://st1.staremax.com/DroidSans.ttf");
+ }	
+
+
+
+html{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+}
+
+a:link, a:visited {
+	text-decoration: none;
+}
+
+
+#header-wrap {
+  height: 222px;
+  background: url(http://st1.staremax.com/m_bg7.png) repeat-x;
+}
+
+
+#header {
+  position: relative;
+  margin: 0 40px;
+}
+
+
+
+#header h1#logo-text { margin: 0 ; padding: 0; font: normal normal 700 32px/normal "Times New Roman";}
+
+
+#header h1#logo-text a {
+	position: absolute;
+	margin: 0; padding: 0 0 0 0;
+	font: bold 35px/normal "MDroid";
+    text-shadow: -1px 0 #B0B0B0, 0 1px #B0B0B0, 1px 0 #B0B0B0, 0 -1px #B0B0B0;
+	letter-spacing: 1px;
+	color: #000;
+	text-decoration: none;
+	top: 70px; left: 0px;
+}
+
+div.part1_menu_off { margin: 0 ; padding: 0;
+	position: absolute;
+	font-family: 'MDroid', Sans-Serif;
+	font-size: 20px;
+    text-shadow: -1px 0 #B0B0B0, 0 1px #B0B0B0, 1px 0 #B0B0B0, 0 -1px #B0B0B0;
+	letter-spacing: 1px;
+	color: #000;
+	text-decoration: none;
+    width: 70px;
+    height: 70px;
+    background: url(http://st1.staremax.com/i1_1.png) no-repeat;
+	top: 140px; left: 0px;
+}
+
+div.part2_menu_on { margin: 0 ; padding: 0;
+	position: absolute;
+	cursor: pointer;
+	font-family: 'MDroid', Sans-Serif;
+	font-size: 20px;
+    text-shadow: -1px 0 #B0B0B0, 0 1px #B0B0B0, 1px 0 #B0B0B0, 0 -1px #B0B0B0;
+	letter-spacing: 1px;
+	color: #000;
+	text-decoration: none;
+    width: 70px;
+    height: 70px;
+    background: url(http://st1.staremax.com/i2_2.png) no-repeat;
+	top: 140px; left: 75px;
+}
+
+
+div.part2_menu_off { margin: 0 ; padding: 0;
+	position: absolute;
+	font-family: 'MDroid', Sans-Serif;
+	font-size: 20px;
+    text-shadow: -1px 0 #B0B0B0, 0 1px #B0B0B0, 1px 0 #B0B0B0, 0 -1px #B0B0B0;
+	letter-spacing: 1px;
+	color: #000;
+	text-decoration: none;
+    width: 70px;
+    height: 70px;
+    background: url(http://st1.staremax.com/i2_1.png) no-repeat;
+	top: 140px; left: 75px;
+}
+
+div.part1_menu_on { 
+	
+	margin: 0 ; padding: 0;
+	position: absolute;
+	cursor: pointer;
+	font-family: 'MDroid', Sans-Serif;
+	font-size: 20px;
+    text-shadow: -1px 0 #B0B0B0, 0 1px #B0B0B0, 1px 0 #B0B0B0, 0 -1px #B0B0B0;
+	letter-spacing: 1px;
+	color: #000;
+	text-decoration: none;
+    width: 70px;
+    height: 70px;
+    background: url(http://st1.staremax.com/i1_2.png) no-repeat;
+	top: 140px; left: 0px;
+
+}
+
+
+div.part3_menu_on { margin: 0 ; padding: 0;
+
+	position: absolute;
+	cursor: pointer;
+	font-family: 'MDroid', Sans-Serif;
+	font-size: 20px;
+    text-shadow: -1px 0 #B0B0B0, 0 1px #B0B0B0, 1px 0 #B0B0B0, 0 -1px #B0B0B0;
+	letter-spacing: 1px;
+	color: #000;
+	text-decoration: none;
+    width: 70px;
+    height: 70px;
+    background: url(http://st1.staremax.com/i3_2.png) no-repeat;
+	top: 140px; left: 150px;
+}
+
+
+div.part3_menu_off { margin: 0 ; padding: 0;
+
+	position: absolute;
+	font-family: 'MDroid', Sans-Serif;
+	font-size: 20px;
+    text-shadow: -1px 0 #B0B0B0, 0 1px #B0B0B0, 1px 0 #B0B0B0, 0 -1px #B0B0B0;
+	letter-spacing: 1px;
+	color: #000;
+	text-decoration: none;
+    width: 70px;
+    height: 70px;
+    background: url(http://st1.staremax.com/i3_1.png) no-repeat;
+	top: 140px; left: 150px;
+}
+
+
+div.part4_menu_on { 
+	
+	margin: 0 ; padding: 0;
+	position: absolute;
+	cursor: pointer;
+	font-family: 'MDroid', Sans-Serif;
+	font-size: 20px;
+    text-shadow: -1px 0 #B0B0B0, 0 1px #B0B0B0, 1px 0 #B0B0B0, 0 -1px #B0B0B0;
+	letter-spacing: 1px;
+	color: #000;
+	text-decoration: none;
+    width: 70px;
+    height: 70px;
+    background: url(http://st1.staremax.com/i4_2.png) no-repeat;
+	top: 140px; left: 220px;
+
+}
+
+
+div.part4_menu_off { 
+	
+	margin: 0 ; padding: 0;
+    position: absolute;
+	font-family: 'MDroid', Sans-Serif;
+	font-size: 20px;
+    text-shadow: -1px 0 #B0B0B0, 0 1px #B0B0B0, 1px 0 #B0B0B0, 0 -1px #B0B0B0;
+	letter-spacing: 1px;
+	color: #000;
+	text-decoration: none;
+    width: 70px;
+    height: 70px;
+    background: url(http://st1.staremax.com/i4_1.png) no-repeat;
+	top: 140px; left: 220px;
+}
+
+
+
+
+
+
+
+#header p#slogan {
+
+	position: absolute;
+	margin: 0; padding:  0 0 0 0;
+	font: normal normal 700 12.8px/normal Arial;
+	text-shadow: -1px 0 grey, 0 1px grey, 1px 0 grey, 0 -1px grey;
+	font-style: normal;
+	letter-spacing: 1px;
+    color: #fff;
+	top: 110px; left: 0px;
+}
+
+
+
+
+
+
+
+#header #nav {
+
+	position: absolute;
+	left: 0px;	top: 32px;
+	margin: 0; padding: 0;
+	width: 100%;
+}
+
+
+
+#header #nav ul {
+
+	float: right;	
+	list-style: none;
+	margin: 0; padding: 0;
+	height: 45px;
+}
+
+
+
+#header #nav ul li {
+
+	float: left;
+	margin: 0; padding: 0;			
+}
+
+
+
+#header #nav ul li a {
+
+	float:left;
+	margin: -25px 0 0 0;
+	padding: 0 15px 29px 15px;
+	color: #baa7a7;
+	font: normal normal 700 14px/normal "Lucida Sans Unicode";
+}
+
+
+
+#header #nav ul li a:hover, 
+#header #nav ul li a:active {
+
+	border: none;
+	color: #fff;
+
+}
+
+
+
+#header #nav ul li#current a {
+	
+	background: transparent url(http://st1.staremax.com/aff2.png) no-repeat center bottom;
+	color: #fff;
+}
+
+div.content-wrap {
+   clear: both;
+   margin: 0; 
+   padding: 0;
+   background: #fff;
+   width: 100%;
+   float: left;
+   display:inline-block;
+}
+
+div.content-wrap:after {
+
+	display:block;
+	visibility:hidden;
+	clear:both;
+	height:0;
+	content: " ";
+
+}  
+
+
+#content {
+
+   background:  url(http://st1.staremax.com/images/content.gif) repeat-y right ;
+   overflow: hidden;
+
+}
+
+
+#sidebar {
+
+   float: right;
+   margin: 0;
+   padding: 0px 0;
+   font-size: .95em;
+
+}
+
+
+
+.clear {	display:inline-block; }
+
+
+
+.clear:after {
+
+	display:block;
+	visibility:hidden;
+	clear:both;
+	height:0;
+	content: " ";
+
+}  
+
+
+.sidemenu ul {
+
+	text-align: left;
+	margin: 10px 15px 10px 8px;
+    padding: 0;
+	border-top: 1px solid #EFEFEF;
+
+}
+
+
+
+.sidemenu ul li {
+
+	list-style: none;
+	font-size: 11px;
+	margin: 0;
+	padding: 7px 5px;
+	border-bottom: 1px solid #EFEFEF;
+}
+
+
+
+
+
+
+
+.sidemenu ul li a:link,
+.sidemenu ul li a:visited {
+
+   color: #33799B;
+   padding-left: 0;
+   font-weight: bold;
+   text-transform: uppercase;
+
+}
+
+
+
+.sidemenu ul li a span {
+
+
+	color: #959595;
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, Sans-Serif;
+	font-style: normal;
+	font-weight: normal;
+	text-transform: none;
+
+}
+
+
+
+.sidemenu ul li a:hover { color: #000; }
+
+
+
+.sidemenu ul ul li { border: none; }
+
+
+.sidemenu h2 { 
+
+	font: normal normal 400 16.5px/normal Arial;
+	color: black; 
+
+}
+
+
+.post {
+
+   margin: 0 0 0 0;
+   padding: 0 0 0 0;
+   overflow: hidden;
+   border-bottom: 1px solid #eee;
+
+}
+
+
+
+.post-info { margin-top: 3px; }
+
+
+
+.post .post-info a:link,
+
+
+
+.post .post-info a:visited {
+
+  	color: #1372a8;
+  	border: none;
+  	font-size: .9em;
+
+}
+
+
+
+
+ p.dateinfo {
+	 
+  background: url(http://st1.staremax.com/icon2.png) no-repeat;
+  height: 82px;
+  width: 126px;
+  letter-spacing: 2px;
+  color: #fff;
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+
+}
+
+
+
+ p.dateinfo span {
+
+  font: bold 14px Arial, Helvetica, sans-serif;
+  display: block;
+  color: #FFFFFF;
+  text-align:left;
+  padding: 6px 0 0 30px;
+  margin: 0 0 0 0;
+  letter-spacing: 0;
+
+}
+
+
+
+
+
+
+
+p.dateinfo span.one {
+
+  font: bold 22px Arial, Helvetica, sans-serif;
+  display: block;
+  color: #FFFFFF;
+  text-align:right;
+  padding: 20px 10px 0 0;
+  letter-spacing: 0;
+
+}
+
+
+
+
+
+
+
+p.content{
+
+	font: normal normal 400 16px/normal Arial;	
+    color: #333;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+
+}
+
+
+
+p.title{
+
+  margin: 30px 0 0 0;
+  padding: 15px 0 0 0;
+  font: normal normal 700 16px/16px Arial;
+  text-transform: uppercase;
+  text-align: left;
+  color: #333;
+
+}
+
+
+
+#footer-bottom {
+
+   clear: both;
+   width: 100%;
+   font-size: .9em;
+   font-family: 'Trebuchet MS', 'Helvetica Neue', Arial, sans-serif;
+   font-size: .9em;
+   color: #C2DBE7;
+   overflow: hidden;
+   background: url("http://st1.staremax.com/foot.png") repeat  left top; 
+
+}
+
+
+
+#footer-bottom a { color: #fff; }
+
+
+
+#footer-bottom a:hover { color: #C8C8C8; }
+
+
+#footer-bottom p.bottom-left {
+
+	font: normal normal 400 14.4px/normal "Arial";
+	float: left;
+    display: inline;
+	margin: 0 0 30px 20px;
+	padding: 30px 0 0 0;
+    text-align: left;
+    color: #ffffff;
+
+}
+
+
+
+#footer-bottom p.bottom-right {
+
+	float: right;
+    display: inline;
+	margin: 0 30px 30px 0;
+	padding: 0;
+    text-align: right;
+}
+
+
+
+a:link.more, a:visited.more {
+
+	float: left;
+	margin-top: 20px;
+	margin-right: 5px;
+	padding: 6px 8px;
+	border: 1px solid #EFEFEF;
+	background-color: #000000;
+    text-transform: lowercase;
+	text-decoration: none;
+	font: normal normal 400 16px/normal "Times New Roman";
+	letter-spacing: 0;
+	color: #fff;
+
+}
+
+
+
+a:hover.more {
+
+   border: 1px solid #CC9966;
+   background-color: #CC9966;
+
+}
+
+img {
+
+   background: #F3F4F5;
+   border: 1px solid #E2E4E7;
+   padding: 10px;
+
+}
+
+
+
+img.float-right {	margin: 5px 0px 10px 10px; }
+
+
+
+img.float-left { margin: 5px 10px 10px 0px; }
+
+
+ul.menu {
+	list-style: none;
+        margin: 0;
+        padding: 0;
+        }
+
+
+
+#vert_menu {
+        font: normal normal 700 19.2px/normal Verdana;
+        text-decoration: none;	
+        }
+
+#vert_menu li{
+
+        text-decoration: none;	
+        color: #383838 ;
+        display: block;
+        padding: 10px 0 0 88px;
+
+        }
+
+#home_news {
+        font: normal normal 700 19.2px/normal Verdana;
+        text-decoration: none;	
+        }
+
+#home_news li{
+        text-decoration: none;	
+        color: #383838 ;
+        display: block;
+        padding: 0 0 0 0;
+        }
+
+
+a.smenu{
+
+	font: normal normal 700 11px/normal Arial;
+	border:none;color:#2ba6cb;text-decoration:none;line-height:inherit;
+}
+
+
+
+a.smenu:hover{color:#2795b6;}
+
+a.smenu:focus{color:#2795b6;}
+
+a.smenu:visited{line-height:inherit;}
+
+
+.eOn { visibility:visible}
+
+.eOff { visibility:hidden}
+
+
+a.ns {
+
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	color: #33799B;
+	font: normal 14px 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, Sans-Serif;
+
+}
+
+
+
+ a.ns:hover, a.ns:active {
+
+	border: none;
+	color: #000;
+
+}
+
+
+
+img.nob{ border: 0; margin: 0 0 16px 0; padding: 0; background: none;border: 0;}
+
+
+
+img.nob_ns{ border: 0; margin: 0; padding: 0; background: none;border: 0;}
+
+
+
+p.bottom-w3c {
+
+	float: left;
+	margin: 60px 0 0 -200px;
+	padding: 0 0 0 0;
+    text-align: left;
+    color: #ffffff;
+
+}
+
+
+table.content_box{
+
+     border-collapse:collapse;
+     padding:0px;
+
+}
+
+
+
+
+td.home_fix_space{
+	
+    width: 7%;
+    text-align: right;
+    vertical-align: top;
+
+}
+
+
+td.home_content_box{
+   width: 75%;
+   vertical-align: top;
+}
+
+
+
+
+td.date_box{
+	
+   width: 7%;
+   text-align: right;
+   vertical-align: top;
+
+}
+
+
+td.cell_content_box{
+
+    width: 75%;
+    vertical-align: top;
+
+}
+
+
+td.cell_sidemenu{
+
+   width: 18%;
+   vertical-align: top;
+
+}
+
+
+
+a.org{
+
+	font: normal normal 400 14.4px/normal Arial;
+
+}
+
+
+
+ul.main_ns{
+
+	font: normal normal 400 14px/normal "Lucida Sans Unicode";
+
+}
+
+
+font.mail {
+	font: normal normal 400 16px/normal "Lucida Sans Unicode";
+    color: grey;
+	text-decoration:none;
+}
