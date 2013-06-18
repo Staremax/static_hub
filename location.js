@@ -11,7 +11,7 @@
 
                 myPlacemark = new ymaps.Placemark([53.336390, 83.778310], {
 
-                    iconContent: "НПК 'Staremax group'"
+                    iconContent: "НПК 'Стамакс'"
 
                 }, {
 
