@@ -1,6 +1,6 @@
 @font-face {
  font-family: "MDroid";
- src: url("http://staremax.github.com/static_hub/DroidSans.ttf");
+ src: url("http://staremax.github.io/static_hub/DroidSans.ttf");
  }	
 
 
@@ -22,7 +22,7 @@ a:link, a:visited {
 
 #header-wrap {
   height: 222px;
-  background: url(http://staremax.github.com/static_hub/m_bg7.png) repeat-x;
+  background: url(http://staremax.github.io/static_hub/m_bg7.png) repeat-x;
 }
 
 
@@ -57,7 +57,7 @@ div.part1_menu_off { margin: 0 ; padding: 0;
 	text-decoration: none;
     width: 70px;
     height: 70px;
-    background: url(http://staremax.github.com/static_hub/i1_1.png) no-repeat;
+    background: url(http://staremax.github.io/static_hub/i1_1.png) no-repeat;
 	top: 140px; left: 0px;
 }
 
@@ -72,7 +72,7 @@ div.part2_menu_on { margin: 0 ; padding: 0;
 	text-decoration: none;
     width: 70px;
     height: 70px;
-    background: url(http://staremax.github.com/static_hub/i2_2.png) no-repeat;
+    background: url(http://staremax.github.io/static_hub/i2_2.png) no-repeat;
 	top: 140px; left: 75px;
 }
 
@@ -87,7 +87,7 @@ div.part2_menu_off { margin: 0 ; padding: 0;
 	text-decoration: none;
     width: 70px;
     height: 70px;
-    background: url(http://staremax.github.com/static_hub/i2_1.png) no-repeat;
+    background: url(http://staremax.github.io/static_hub/i2_1.png) no-repeat;
 	top: 140px; left: 75px;
 }
 
@@ -104,7 +104,7 @@ div.part1_menu_on {
 	text-decoration: none;
     width: 70px;
     height: 70px;
-    background: url(http://staremax.github.com/static_hub/i1_2.png) no-repeat;
+    background: url(http://staremax.github.io/static_hub/i1_2.png) no-repeat;
 	top: 140px; left: 0px;
 
 }
@@ -122,7 +122,7 @@ div.part3_menu_on { margin: 0 ; padding: 0;
 	text-decoration: none;
     width: 70px;
     height: 70px;
-    background: url(http://staremax.github.com/static_hub/i3_2.png) no-repeat;
+    background: url(http://staremax.github.io/static_hub/i3_2.png) no-repeat;
 	top: 140px; left: 150px;
 }
 
@@ -138,7 +138,7 @@ div.part3_menu_off { margin: 0 ; padding: 0;
 	text-decoration: none;
     width: 70px;
     height: 70px;
-    background: url(http://staremax.github.com/static_hub/i3_1.png) no-repeat;
+    background: url(http://staremax.github.io/static_hub/i3_1.png) no-repeat;
 	top: 140px; left: 150px;
 }
 
@@ -156,7 +156,7 @@ div.part4_menu_on {
 	text-decoration: none;
     width: 70px;
     height: 70px;
-    background: url(http://staremax.github.com/static_hub/i4_2.png) no-repeat;
+    background: url(http://staremax.github.io/static_hub/i4_2.png) no-repeat;
 	top: 140px; left: 220px;
 
 }
@@ -174,7 +174,7 @@ div.part4_menu_off {
 	text-decoration: none;
     width: 70px;
     height: 70px;
-    background: url(http://staremax.github.com/static_hub/i4_1.png) no-repeat;
+    background: url(http://staremax.github.io/static_hub/i4_1.png) no-repeat;
 	top: 140px; left: 220px;
 }
 
@@ -253,7 +253,7 @@ div.part4_menu_off {
 
 #header #nav ul li#current a {
 	
-	background: transparent url(http://staremax.github.com/static_hub/aff2.png) no-repeat center bottom;
+	background: transparent url(http://staremax.github.io/static_hub/aff2.png) no-repeat center bottom;
 	color: #fff;
 }
 
@@ -280,7 +280,7 @@ div.content-wrap:after {
 
 #content {
 
-   background:  url(http://staremax.github.com/static_hub/images/content.gif) repeat-y right ;
+   background:  url(http://staremax.github.io/static_hub/images/content.gif) repeat-y right ;
    overflow: hidden;
 
 }
@@ -410,7 +410,7 @@ div.content-wrap:after {
 
  p.dateinfo {
 	 
-  background: url(http://staremax.github.com/static_hub/icon2.png) no-repeat;
+  background: url(http://staremax.github.io/static_hub/icon2.png) no-repeat;
   height: 82px;
   width: 126px;
   letter-spacing: 2px;
@@ -490,7 +490,7 @@ p.title{
    font-size: .9em;
    color: #C2DBE7;
    overflow: hidden;
-   background: url("http://staremax.github.com/static_hub/foot.png") repeat  left top; 
+   background: url("http://staremax.github.io/static_hub/foot.png") repeat  left top; 
 
 }
 
